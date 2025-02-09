@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Nikita  
 I am a Full-Stack Developer.  
-- I develop websites using modern technology stacks (2 years)  
+- I develop websites using modern technology stacks 
 - I also develop Telegram bots
+- I am a 4th-year college student
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayk-77&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px"/>
