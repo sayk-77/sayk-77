@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Nikita  
 I am a Full-Stack Developer.  
 - I develop websites using modern technology stacks (2 years)  
-- I also develop Telegram bots  
-- I'm a 4th year college student
+- I also develop Telegram bots
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayk-77&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayk-77&show_icons=true&theme=radical)
 ### Tech Stack:
 #### **Frontend**:
 <div>
