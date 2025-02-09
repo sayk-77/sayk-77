@@ -13,14 +13,16 @@ I am a Full-Stack Developer.
 
 
 <div>
-  
-  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)  
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-  ![Zustand](https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=zustand&logoColor=white) 
-  
+  <span>
+    
+    ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)  
+    ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
+    ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)  
+    ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+    ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+    ![Zustand](https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=zustand&logoColor=white)  
+    
+  </span>
 </div>
 
 
