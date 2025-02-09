@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Nikita  
 
-I am a Full-Stack Developer. I develop various websites and Telegram bots.  
-Currently, I am studying in my 4th year of college.  
+I am a Full-Stack Developer.
+- I develop websites using modern technology stacks (2 years)
+- I also develop telegram bots
+- I'm a 4th year college student
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayk-77&layout=compact&theme=radical)  
 
@@ -13,8 +15,6 @@ Currently, I am studying in my 4th year of college.
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=zustand&logoColor=white)  
 
@@ -27,15 +27,7 @@ Currently, I am studying in my 4th year of college.
 ![Fiber](https://img.shields.io/badge/Fiber-00C7B7?style=for-the-badge&logo=go&logoColor=white)  
 ![GORM](https://img.shields.io/badge/GORM-FF8800?style=for-the-badge&logo=go&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-
-</div>  
-
-#### **Database**:  
-<div>  
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![pgAdmin](https://img.shields.io/badge/pgAdmin-6DA6F8?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 </div>  
 
@@ -47,9 +39,5 @@ Currently, I am studying in my 4th year of college.
 
 </div>  
 
-### **Contact Me**:  
-<div>  
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sayk02)  
 
-</div>
