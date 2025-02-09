@@ -2,7 +2,8 @@
 I am a Full-Stack Developer.  
 - I develop websites using modern technology stacks (2 years)  
 - I also develop Telegram bots  
-- I'm a 4th year college student 
+- I'm a 4th year college student
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayk-77&layout=compact&theme=radical)
 ### Tech Stack:
 #### **Frontend**:
